@@ -1,7 +1,7 @@
-import Header from "./Header.jsx"
-import Footer from "./Footer.jsx"
-import Food from "./Food.jsx"
-import Card from "./Card.jsx"
+import Header from "./components/Header.jsx"
+import Footer from "./components/Footer.jsx"
+import Food from "./components/Food.jsx"
+import Card from "./components/Card.jsx"
 
 
 

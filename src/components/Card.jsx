@@ -1,4 +1,4 @@
-import profilePic from "./assets/avatar.svg"
+import profilePic from "../assets/avatar.svg"
 
 
 
